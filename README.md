@@ -1,5 +1,2 @@
-## Breast-Cancer-Winconsin-Predict
-##Summary
-predicting winconsin breast cancer data with machine learning models
+# Breast-Cancer-Winconsin-Predict
 
-Building AI course project
